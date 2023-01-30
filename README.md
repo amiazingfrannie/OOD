@@ -5,3 +5,5 @@ Including:
 HW assignment,
 Lab assignment,
 Group project...
+
+Built on Gradle.
